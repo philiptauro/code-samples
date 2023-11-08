@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "duplicate-array-items": "npx ts-node typescript/duplicate-array-items",
+    "merge-strings-alternatively": "npx ts-node merge-strings-alternatively",
+    "add-list-items": "npx ts-node typescript/add-list-items",
     "template": "npx ts-node typescript/template"
   },
   "dependencies": {
