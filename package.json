@@ -6,7 +6,8 @@
     "__template": "npx ts-node src/scripts/__template",
     "duplicate-array-items": "npx ts-node src/scripts/duplicate-array-items",
     "merge-strings-alternatively": "npx ts-node src/scripts/merge-strings-alternatively",
-    "add-list-items": "npx ts-node src/scripts/add-list-items"
+    "add-list-items": "npx ts-node src/scripts/add-list-items", 
+    "sums-of-nums": "npx ts-node src/scripts/sums-of-nums"
   },
   "dependencies": {
     "typescript": "^4.6.3"
